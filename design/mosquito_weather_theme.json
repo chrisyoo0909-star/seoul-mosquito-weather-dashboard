@@ -1,0 +1,16 @@
+{
+  "name": "Mosquito Weather",
+  "dataColors": ["#2A9D8F", "#15807A", "#E9C46A", "#457B9D", "#E76F51", "#0E5C57", "#94D2BD", "#F4A261"],
+  "background": "#FFFFFF",
+  "foreground": "#264653",
+  "tableAccent": "#2A9D8F",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{ "fontColor": { "solid": { "color": "#264653" } }, "fontSize": 11, "fontFamily": "Segoe UI Semibold" }],
+        "background": [{ "show": false }],
+        "border": [{ "show": false }]
+      }
+    }
+  }
+}
